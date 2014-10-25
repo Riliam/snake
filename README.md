@@ -1,2 +1,3 @@
-Easy snake game. Launch - python snake.py.
+Snake
 =====
+Easy snake game. Launch - python snake.py.
